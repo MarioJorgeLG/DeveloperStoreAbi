@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "ambev.developerevaluation.webapi": "StartDebugging"
+      }
+    }
+    "applicationUrl": "https://localhost:7143;http://localhost:5000"
+  }
+
+}
